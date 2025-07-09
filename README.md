@@ -4,8 +4,12 @@ materia de POO
 
     npm init
 despues otro comando
+
     npm install express
+    
 -
-    npm install cors
+npm install cors
+
 -
-    npm install mysql
+
+npm install mysql
