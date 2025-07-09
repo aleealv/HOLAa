@@ -8,7 +8,9 @@ despues otro comando
     npm install express
     
 -
+
     npm install cors
     
 -
+
     npm install mysql
